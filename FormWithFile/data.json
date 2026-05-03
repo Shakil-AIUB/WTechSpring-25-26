@@ -1,0 +1,36 @@
+[
+    {
+        "name": "shakil",
+        "password": "12345"
+    },
+    {
+        "name": "shakil",
+        "password": "5566"
+    },
+    {
+        "name": "shakil",
+        "password": "Shakil12"
+    },
+    {
+        "name": "shakil",
+        "password": "Shakil12"
+    },
+    {
+        "name": "Ashik",
+        "email": "Ashik@gmail.com",
+        "website": "aiub.edu",
+        "comment": "Dhaka",
+        "gender": "male"
+    },
+    {
+        "name": "Ashik",
+        "email": "Ashik@gmail.com",
+        "website": "aiub.edu",
+        "comment": "Dhaka",
+        "gender": "male"
+    },
+    {
+        "name": "Ashik",
+        "email": "Ashik@gmail.com"
+    }
+]
